@@ -1,0 +1,12 @@
+{
+    "name": "czjinge/main-website",
+    "description": "Changzhou Jinge IT Co.LTD,",
+    "keywords": ["slim", "framework", "jinge", "czjinge"],
+    "homepage": "http://www.czjinge.com/",
+    "type": "project",
+    "license": "BSD",
+    "minimum-stability": "stable",
+    "require": {
+		"slim/slim": "^3.0"
+    }
+}
